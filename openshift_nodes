@@ -1,0 +1,6 @@
+Cluster Nodes
+FQDN=qbn-ocp3-master01.lab.example  IP=192.168.4.37
+FQDN=qbn-ocp3-infra02.lab.example  IP=192.168.4.41
+FQDN=qbn-ocp3-infra01.lab.example  IP=192.168.4.40
+FQDN=qbn-ocp3-node02.lab.example  IP=192.168.4.39
+FQDN=qbn-ocp3-node01.lab.example  IP=192.168.4.38
